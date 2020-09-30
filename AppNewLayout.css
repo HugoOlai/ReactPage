@@ -1,0 +1,379 @@
+.container{
+  margin: auto;
+  width: 70%;
+  height: 100%;
+  left: 200px;
+  padding: 10px;
+  position: absolute;
+  overflow-y: auto;
+
+}
+.top{
+    background-color: #f2f2f2;
+    float: left;
+    width: 100%;
+    height: 20%;    
+}
+
+.title{
+    float: left;
+    padding: 50px;
+    width: 50%;
+}
+
+h1{
+    float: left;
+    margin: 0px;
+    font-size: 25px;
+    padding-top: 20px;
+    width: 100%;
+    color: #38344d;
+}
+
+.info{
+   float: left;
+}
+
+p{
+    float: left;
+    margin: 0px;
+    width: 100%;
+    text-align: left;
+    
+}
+
+.tituloTexto{    
+    color: #6996e7;
+}
+
+.body{   
+    float: left;
+    width: 100%;
+    height: 70%;
+}
+
+.content1{
+    padding: 50px;
+    width: 100%;
+}
+.contentLeft{
+    float: left;
+    width: 50%;
+    
+}
+.titelComoFunciona{
+    color: #ee8e9a;
+}
+
+.titelLuta{
+   color: #2e9bfd;
+}
+small{
+    
+    float: left;
+    margin-bottom: 10px;
+    width: 100%;
+
+}
+.textoSmall1{
+    background-color: #44549c;
+    color: #f2f2f2;
+    float: left;
+}
+.textoSmall2{
+    background-color: #f16767;
+    color: #f2f2f2;
+    float: left;
+    margin-bottom: 10px;
+}
+strong{
+    float: left;
+    margin: 0px;
+    font-size: 25px;
+    color: #2e9bfd;
+}
+
+
+.contentRigth{
+    float: left;
+    width: 50%;
+}
+.modal{
+    width: 300px;
+    height: 500px;
+    top: 150px;
+    right:  5%;
+    position: absolute;
+    color: #2d8ff4;
+    background-color: #ffffff;
+    border: 1px solid rgba(128, 128, 128, 0.342) ;
+    -webkit-box-shadow: 5px 7px 5px rgba(50, 50, 50, 0.26);
+    -moz-box-shadow:    5px 7px 5px rgba(50, 50, 50, 0.26);
+    box-shadow:         5px 7px 5px rgba(50, 50, 50, 0.26);
+}
+
+.modal2{
+    width: 300px;
+    height: 500px;
+    top: 1850px;
+    right: 270px;
+    position: absolute;
+    color: #2d8ff4;
+    background-color: #ffffff;
+    border: 1px solid rgba(128, 128, 128, 0.342) ;
+    -webkit-box-shadow: 5px 7px 5px rgba(50, 50, 50, 0.26);
+    -moz-box-shadow:    5px 7px 5px rgba(50, 50, 50, 0.26);
+    box-shadow:         5px 7px 5px rgba(50, 50, 50, 0.26);
+}
+
+.titelAjuda{
+    float: left;
+    padding-left: 5px;
+}
+.valores{
+    float: left;
+    width: 100%;
+    padding-top: 30px;
+    
+}
+.valueTitel{
+    float: left;
+    width: 60%;
+}
+
+.text{
+    float: left;
+    padding-left: 40px;
+}
+
+.drop{
+    float: left;    
+    background-color: rgb(168, 168, 168) ;  
+    
+}
+
+.TitleRegister{
+    float: left;
+    width: 100%;
+    margin-left: 40px;
+    padding-right: 0px;
+    margin-top: 30px;
+
+}
+
+.textRegister{
+    float:left;
+    width: 30%;
+    padding-left: 0px;    
+
+}
+
+.textRegisterT{
+    float: left;
+    background-color: #c7def7;
+}
+.textRegisterT2{
+    float: left;
+    
+}
+
+.textRegister2{
+    float:left;
+    width: 50%;
+    color:black;
+}
+
+.variosItensModal{
+    float: left;
+    padding-left: 40px;
+    width: 80%;
+}
+
+.Nome{
+    float: left;
+    width: 100%;
+    padding-top: 10px;
+}
+
+.estadoCidade{
+    float: left;
+    width: 100%;
+    padding-top: 10px;
+}
+.Cidade{
+    float: left;
+    width: 50%;
+}
+.estado{
+    float: left;
+    width: 50%;
+}
+.drop2{
+    float: left;
+    width: 92%;
+    padding-left: 10px;
+}
+
+.localizacao{
+    float: left;
+    width: 100%;
+    padding-top: 10px;
+}
+
+.endereco{
+    float: left;
+    width: 50%;
+}
+
+.numero{
+    float: left;
+    width: 45%;
+    padding-left: 10px;
+}
+
+.referencia{
+    float: left;
+    width: 100%;
+    padding-top: 10px;
+}
+
+.checkbox{
+    float: left;
+    width: 100%;
+    padding-top: 10px;
+}
+
+.btn{
+    width: 100%;
+    float: left;
+    padding-top: 10px;
+    margin-left: 35px;
+}
+
+.btnCadastra{
+    background-color: #01264a; /* Green */
+    border: none;
+    color: white;
+    padding: 10px;
+    width: 80%;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    float: left;
+
+}
+
+.btnCadastra:hover {
+    background-color: #0958a7; /* Green */
+    color: white;
+  }
+
+  .content2{
+      float: left;
+      width: 100%;
+      background-color:#00264b ;
+      margin-top: 40px;
+  }
+  .contentLeft{
+      float: left;
+      width: 50%;
+  }
+  
+  .itemComimg{
+    width: 300px;
+    height: 500px;
+    top: 150px;
+    right:  5%;
+    margin: 60px;
+    float: left;
+    background-color: rgb(255, 255, 255);
+  }
+
+  .itemComimg2{
+    width: 100%;
+    height: 300px;
+    top: 150px;
+    margin: 60px;
+    margin-left: 0px;
+    float: left;
+    background-color: rgb(255, 255, 255);
+  }
+
+  .contentRigth{
+    width: 300px;
+    height: 500px;
+    top: 150px;
+    right:  5%;
+    margin: 60px;
+    margin-left: 0PX;
+    float: left;
+  }
+
+  .TitleContentRigth{
+    color: rgb(255, 255, 255);
+    float: left;
+    font-weight: bold;
+    font-size: 25px;
+    padding-bottom: 10px;
+  }
+  .perguntas{
+   
+    background-color: #00264b;
+    margin-left: 10px;
+    color:red;
+    border: none;
+    font-weight: bold;
+    font-size: 15px;
+    float: left;
+    margin-top: 30px;
+    
+  }
+
+  .primeirapergunta{
+      
+      float: left;
+      width: 100%;
+  }
+
+  hr{
+    margin-top: 30px;
+    border: 0;
+    border-top: 1px solid #ffffff3f;
+    float: left;
+    width: 100%;
+  }
+
+  .valor{
+      float: left;
+      height: 100%;
+      margin-top: 150px;
+      width: 25%;
+      color:#5092f7;      
+      font-weight: bold;
+      font-size: 30px;
+  }
+
+.bot{    
+    float: left;
+    background-color: #f2f2f2;
+    width: 100%;
+    height: 20%;
+}
+
+.content2{
+    background-color: #00264b;
+}
+
+.cardInfo{
+    display: inline-block;
+}
+
+.contentTop{
+    background-color: #00264b;
+    float: left;
+    width: 100%;
+    height: 900px;
+}
